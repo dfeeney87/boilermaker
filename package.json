@@ -1,0 +1,23 @@
+{
+  "name": "boilermaker",
+  "version": "1.0.0",
+  "description": "template for express react redux css",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfeeney87/boilermaker.git"
+  },
+  "keywords": [
+    "npm",
+    "boilermaker"
+  ],
+  "author": "df",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfeeney87/boilermaker/issues"
+  },
+  "homepage": "https://github.com/dfeeney87/boilermaker#readme"
+}
